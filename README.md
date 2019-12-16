@@ -6,14 +6,14 @@ This application includes a great revenue model for the administrators, simple a
 
 ## FAB ARTIST Functionalities & Features – An Overview
 # Artist Can
-List Services with Price
-Find Near by artist by Location
-Apply on Available Jobs
-Track Customer Location
-Link Payment Accounts
-Perform Live Chat with Customers
-Get Review Ratings for provided services
-Receive Payments in Wallet
+List Services with Price<br>
+Find Near by artist by Location<br>
+Apply on Available Jobs<br>
+Track Customer Location<br>
+Link Payment Accounts<br>
+Perform Live Chat with Customers<br>
+Get Review Ratings for provided services<br>
+Receive Payments in Wallet<br>
 Get All Sales Analytics
 
 ## Please Take a Tour Of Our App
